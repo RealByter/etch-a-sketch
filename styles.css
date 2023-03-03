@@ -16,19 +16,19 @@ body {
 	font-size: 64px;
 }
 
-.change-grid {
+#change-grid {
 	border: none;
 	padding: 16px 32px;
 	border-radius: 4px;
 	font-size: 24px;
 }
 
-.change-grid:hover {
+#change-grid:hover {
 	background-color: #d3d3d3;
 	cursor: pointer;
 }
 
-.change-grid:active {
+#change-grid:active {
 	background-color: #c1c1c1;
 }
 
