@@ -64,4 +64,4 @@ changeGridButton.addEventListener('click', () => {
 });
 
 // Generating a default grid
-generateGrid(30);
+generateGrid(20);
